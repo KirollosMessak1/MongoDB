@@ -14,10 +14,10 @@ def get_requirements(file_path:str)->List[str]:
         
         return requirements
 __version__ = '0.0.1'
-REPO_NAME = 'MongoDB'
+REPO_NAME = 'mongodbconnectorpkg'
 AUTHOR_USER_NAME = 'KirollosMessak1'
 AUTHOR_EMAIL = 'kirollosmagdy8@gmail.com'
-PKG_NAME = 'KiroMongoConnector'
+PKG_NAME = 'databaseautonmation'
 
 setup(
     name = PKG_NAME ,
